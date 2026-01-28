@@ -8,13 +8,15 @@ This repository stores all my machine learning practice topics and projects.
 * Multiple Linear Regression
 * Gradient Descent
 * Polynomial Regression
+* Regularization
 
 ### Coming Soon:
 
-* Regularization
+* Regression Metrics
 * Logistic Regression
-* Decision Trees
+* Naive Bayes
 * KNN
 * Random Forest
 * SVM
+* Decision Trees
   "
