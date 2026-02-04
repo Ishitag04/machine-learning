@@ -9,10 +9,10 @@ This repository stores all my machine learning practice topics and projects.
 * Gradient Descent
 * Polynomial Regression
 * Regularization
+* Regression Metrics
 
 ### Coming Soon:
 
-* Regression Metrics
 * Logistic Regression
 * Naive Bayes
 * KNN
